@@ -1,5 +1,10 @@
 # plannet_app
 
+# Screenshot
+<img src="https://github.com/rashmi2201/plannet_app/blob/main/assets/output/Screenshot_1723012920.png" height="400">
+<img src="https://github.com/rashmi2201/plannet_app/blob/main/assets/output/Screenshot_1723012926.png" height="400">
+<img src="https://github.com/rashmi2201/plannet_app/blob/main/assets/output/Screenshot_1723012939.png" height="400">
+
 A new Flutter project.
 
 ## Getting Started
